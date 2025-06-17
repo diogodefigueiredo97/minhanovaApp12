@@ -1,0 +1,7 @@
+# ClickOnce files
+*.application binary
+*.manifest binary
+*.dll binary
+*.exe binary
+*.deploy binary
+Application Files/** binary
